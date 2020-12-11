@@ -10,6 +10,20 @@ To run,
 python game.py
 ```
 
+## Project Structure
+
+├── README.md
+├── dataset                 # contains generated dataset
+│   └── data.txt
+├── functions.py
+├── game.py                 # Handles the GUI
+├── huligutta.py            # Game code
+├── images
+├── notebooks
+│   ├── Playground.ipynb    # Experimental notebook
+│   └── RL.ipynb            # Some data visualizations
+└── references
+
 ## How to Play
 
 Goats
