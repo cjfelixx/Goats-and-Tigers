@@ -12,6 +12,7 @@ python game.py
 
 ## Project Structure
 
+```plaintext
 ├── README.md
 ├── dataset                 # contains generated dataset
 │   └── data.txt
@@ -23,6 +24,7 @@ python game.py
 │   ├── Playground.ipynb    # Experimental notebook
 │   └── RL.ipynb            # Some data visualizations
 └── references
+```
 
 ## How to Play
 
