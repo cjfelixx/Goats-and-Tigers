@@ -1,5 +1,7 @@
 # Goats & Tigers
 
+Project advisor: Narayana Prasad Santhanam, Associate Professor
+
 ## Motivation
 
 Develop a Reinforcement Learning algorithm on strategy games.
