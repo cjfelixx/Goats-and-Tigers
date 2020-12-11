@@ -25,6 +25,8 @@ Tigers
 ## Todo
 
 * Play the game so it generates data.
+* Computer vs computer
+* Develop Reinforcement learning scheme
 * Undo move feature.
 * Organize how the data.txt collects data (i.e. what other valuable information are needed).
 
